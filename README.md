@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sagar Jadhav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarxjadhav" alt="sagarxjadhav" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://sagarxjadhav.github.io/portfolio_2024/](https://sagarxjadhav.github.io/portfolio_2024/)
 
