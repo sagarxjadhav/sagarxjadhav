@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sagar Jadhav   https://github.com/Jayesh14007/DSBDA</h1>
+<h1 align="center">Hi 👋, I'm Sagar Jadhav  </h1>
 <h3 align="center">A passionate web developer from India.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarxjadhav" alt="sagarxjadhav" /></a> </p>
