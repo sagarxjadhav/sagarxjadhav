@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Jadhav  </h1>
 <h3 align="center">A passionate web developer from India.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarxjadhav" alt="sagarxjadhav" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/sagarjadha54141" target="blank"><img src="https://img.shields.io/twitter/follow/sagarjadha54141?logo=twitter&style=for-the-badge" alt="sagarjadha54141" /></a> </p>
 
