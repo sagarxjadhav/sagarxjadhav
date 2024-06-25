@@ -3,7 +3,6 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/sagarjadha54141" target="blank"><img src="https://img.shields.io/twitter/follow/sagarjadha54141?logo=twitter&style=for-the-badge" alt="sagarjadha54141" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://sagarxjadhav.github.io/portfolio_2024/](https://sagarxjadhav.github.io/portfolio_2024/)
 
